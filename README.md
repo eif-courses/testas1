@@ -2,6 +2,15 @@
 
 Atsiskaityti privalote iki paskutinės praktinės paskaitos.
 
+## Super repo
+
+-= waeaweaweaweaweaw
+-aew aewaeaweawea
+-awe aweaweaw
+>waeaweawewawewaewaewaewaewa
+
+[Hello link](htps..//////////////)
+
 Užduoties sąlyga. Praplėsti 1 užduoties funkcionalumą (atnaujinimas v1.1) ir papildyti šiomis funkcijomis:
 
 Pasiekimų sistema (angl. Achievments):
